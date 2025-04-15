@@ -9,6 +9,8 @@ I come from a background of molecular biology bachelor degree and evolutionary b
 
 [Machine Learning Learning](https://github.com/BurakHaukka/ml-dl-data-analytics/tree/main/MachineLearning-Jamk/MachineLearning-assignments)
 
+## Student Project
+
 I did a student project with my own data set from my master's thesis. It was is a fun journey with a lot of data wrangling and feature engineering.  
 
 I am going to further improve my models and play around with my data set.  
