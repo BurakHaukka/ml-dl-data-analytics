@@ -1,4 +1,4 @@
-# ml-dl-data-analytics
+# Machine Learning - Deep Learning - Data Analytics
 This folder contains JAMK AI/DA course exercises that I completed..
 
 I am Burak,
